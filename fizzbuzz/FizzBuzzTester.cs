@@ -8,5 +8,13 @@ namespace fizzbuzz
 {
     class FizzBuzzTester
     {
+        public string CheckIfFizzAndOrBuzz(number)
+        {
+            if (number % 3 = 0 && number % 5 = 0)
+            {
+                return "FizzBuzz";
+            }
+            return "Buzz";
+        }
     }
 }
